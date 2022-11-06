@@ -1,5 +1,8 @@
 # janken1st (パンダゲーム)
 
+## DEMO
+https://guolam.github.io/janken1st/coverpage.html
+
 ## 紹介と使い方
 
   - 設定：パンダが森に迷子になってます。森から脱出するために、「食べる」と「進む」しか選べない。
